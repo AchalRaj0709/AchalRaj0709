@@ -1,98 +1,106 @@
-# 👋 Hi, I’m Achal Raj  
+<h1 align="center">Hi 👋, I'm Achal Raj</h1>
 
-🚀 **CSE (AI & ML) Student** | 💻 **Full-Stack Developer** | ⚙️ Building Scalable Web Applications  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=CSE+(AI+%26+ML)+Student;Full-Stack+Developer;Building+Scalable+Web+Apps;Learning+AI+by+Building" alt="Typing SVG" />
+</p>
 
-I’m a **Computer Science (AI & ML) undergraduate** focused on **personal branding through impactful projects**.  
-I enjoy building **end-to-end applications**, exploring **AI-powered features**, and designing systems that scale beyond prototypes.
+<p align="center">
+  <a href="https://www.linkedin.com/in/achalraj0709">
+    <img src="https://img.shields.io/badge/LinkedIn-Achal_Raj-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rajachalp782@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🔥 What I Do
-- 💻 Build **full-stack web applications**
-- ⚙️ Design **scalable backend systems**
-- 🤖 Integrate **AI capabilities** into real products
-- 🛠️ Learn by building and improving continuously
+## 🚀 About Me  
+
+🎓 **CSE (AI & ML) Undergraduate**  
+💻 **Full-Stack Developer** focused on real-world applications  
+⚙️ Passionate about **scalable systems & AI-powered features**
+
+I believe in **learning by building**, not just tutorials.
 
 ---
 
-## 🧠 Tech Stack & Skills
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-- React.js  
-- HTML5, CSS3, JavaScript  
-- Bootstrap  
-- Tailwind CSS 
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
+</p>
 
 ### ⚙️ Backend
-- Node.js  
-- Express.js  
-- REST APIs  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Databases
-- MongoDB  
-- SQL  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### 🧑‍💻 Programming Languages
-- Java  
-- Python  
-
-### 🌱 Currently Learning
-- Core **AI & ML concepts**
-- **System Design** fundamentals
-- Backend optimization & scalability
+### 🧑‍💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚀 **Shiksha**
-> A full-stack platform demonstrating scalable architecture and AI integration  
+### 🔥 Shiksha
+> Full-stack platform showcasing scalable architecture & AI integration  
 
-- Modular backend design  
-- AI-powered chatbot & quiz features  
-- Focus on performance and clean architecture  
+- Modular backend  
+- AI chatbot & quiz features  
+- Clean and scalable design  
 
-🔗 Repo: https://github.com/AchalRaj0709/Shiksha  
-
----
-
-### 🌍 **Wanderlust** *(In Development)*
-> A scalable web platform built with real-world architecture in mind  
-
-- Clean codebase & modular structure  
-- Designed for growth and performance  
+🔗 https://github.com/AchalRaj0709/Shiksha
 
 ---
 
-### 🤖 **AI Code Reviewer**
-> An AI-powered tool to automate code review and improvement  
+### 🌍 Wanderlust *(In Development)*
+> Scalable web platform built with real-world system design principles  
 
-- Uses AI APIs to analyze code  
-- Helps developers write cleaner, more maintainable code  
+---
+
+### 🤖 AI Code Reviewer
+> AI-powered tool to automate code review and improvement  
 
 ---
 
 ## 🎯 Current Focus
 - Strengthening **full-stack fundamentals**
 - Applying **AI where it adds real value**
-- Learning **how large-scale systems are built**
+- Learning **system design & scalability**
 - Shipping **production-quality projects**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Achal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchalRaj0709&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AchalRaj0709&show_icons=true&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchalRaj0709&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AchalRaj0709&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchalRaj0709&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
-- 📧 Email: **rajachalp782@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/achalraj0709  
-- 🧑‍💻 GitHub: https://github.com/AchalRaj0709  
+📧 **Email:** rajachalp782@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/achalraj0709  
 
 ---
 
-⭐ *I believe strong engineers are built by solving real problems and continuously improving their craft.*
+⭐ *Strong engineers are built by solving real problems — not just learning frameworks.*
+
